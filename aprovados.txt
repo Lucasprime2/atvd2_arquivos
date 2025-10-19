@@ -1,0 +1,2 @@
+nome;nota1;nota2;nota3;media
+Lucas;9.0;8.0;7.0;8.0
